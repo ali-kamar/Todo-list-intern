@@ -10,14 +10,14 @@ cd Todo-list-intern
 ```
 ### 2. Start the Backend
 
-cd server
-npm install
+cd server, 
+npm install, 
 npm start
 
 ### 3. Start the Frontend
 
-cd ../client
-npm install
+cd ../client, 
+npm install, 
 npm start
 
 ENJOY
