@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  html {
+  font-family: "Inter", sans-serif;
+  color: white;
+  @apply bg-purple-700
+}
+.card {
+  @apply h-auto w-96 text-center bg-indigo-950 rounded-xl
+}
+}
